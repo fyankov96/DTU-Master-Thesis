@@ -33,9 +33,6 @@ G.add_edge("Spoke_2", "Hub")
 
 
 
-
-
-
 # Customize node colors and sizes based on their type
 node_colors = []
 node_sizes = []
